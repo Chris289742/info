@@ -1,7 +1,7 @@
-# About me.
-### Hi, I'm a newbie in Coding.
+# About Me
+### Hi, I'm a newbie in coding.
 - I'm learning web development.
-- I love to dive into CS knowledge whatever kind it is.
-- I love to share what I'm learning, feel free to contact me if you also love to do.
+- I love to dive into CS knowledge of any kind.
+- I love to share what I'm learning. Feel free to contact me if you also love to do so.
 
-**contact info: vic.liiu09@gmail.com**
+**Contact Info: vic.liiu09@gmail.com**
